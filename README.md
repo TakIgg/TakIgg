@@ -1,4 +1,4 @@
-# 👋 Hello, I'm TakIgg
+# 👋 Hello, I'm Takuma Igarashi 
 
 💻 Aspiring Data Analyst with a background in Python and SQL  
 🔎 Interested in data analysis, automation, and business insights  
