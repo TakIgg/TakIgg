@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Takuma Igarashi 
 
-💻 Aspiring Data Analyst with a background in Python and SQL  
+💻 Aspiring ERP Specialist/Data Analyst with a background in SAP S/4HANA, Python and SQL  
 🔎 Interested in data analysis, automation, and business insights  
 🛠️ Skills: Python, SQLite, Git, Pandas  
 
